@@ -1,19 +1,4 @@
-# ProManager - Project Management MicroService System (CS673 Software Engineering)
-
-ProManager is a project management system developed as part of the CS673 Software Engineering course.
-
-
-## Team Members
-
-| **Name**            | **Role**                          |
-|---------------------|-----------------------------------|
-| Dipayan Mazumder    | Security Lead                     | 
-| Pranjal Ekhande     | Requirement Lead                  | 
-| Aman Jain           | Configuration Lead                | 
-| Mukul Jangid        | Design and Implementation Lead    | 
-| Praveen Singh       | Team Lead                         | 
-
-## Overview
+# ProManager
 
 We have contributed to a learning platform with a Project Management Module designed to facilitate project-based learning for students and professionals. 
 
